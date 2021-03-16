@@ -10,6 +10,6 @@
   "license": "ISC",
   "dependencies": {
     "sails.io.js": "^1.2.1",
-    "socket.io-client": "^3.1.1"
+    "socket.io-client": "^2.2.0"
   }
 }
